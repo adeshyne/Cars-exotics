@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>PREDATORS</title>
+</head>
+
+<link rel="stylesheet" type="text/css" href="intro.css">
+
+<body>
+
+<div class ="nav">
+<div class = "scopes">
+	<nav>
+		<ul>
+			<li><a href="my_intro">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+			<li><a href="https://www.facebook.com">facebook</a></li>
+			<li><a href="https://www.twitter.com">twitter</a></li>
+		</ul>
+	</nav>
+</div>
+</div>
+
+
+
+    <header>
+		<h1>JUNGLE LIFE</h1>
+		<p>PREDATORS</p>
+	</header>
+
+	<hr>
+
+
+
+
+
+
+<div class="nav">
+<div class="story">
+	
+	<p><h3><a href="tiger.html">TIGERS(click here for more)</a></h3>
+		  One dolor sit amet, consectetur adipiscing elit. Nam in posuere dolor. Nulla rhoncus eget libero vel vestibulum. Phasellus iaculis tincidunt nunc, ac iaculis metus vestibulum sed. Nullam justo erat, sodales et neque nec, malesuada placerat lacus. Etiam scelerisque diam vitae massa eleifend, vitae efficitur orci ornare. Quisque tortor est, finibus ac aliquet sit amet, maximus sed nibh. Praesent auctor odio vel sodales lobortis.
+	</p>
+<p><h3><a href="wolf.html">WOLVES(click here for more)</a></h3>
+	    Two...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in posuere dolor. Nulla rhoncus eget libero vel vestibulum. Phasellus iaculis tincidunt nunc, ac iaculis metus vestibulum sed. Nullam justo erat, sodales et neque nec, malesuada placerat lacus. Etiam scelerisque diam vitae massa eleifend, vitae efficitur orci ornare. Quisque tortor est, finibus ac aliquet sit amet, maximus sed nibh. Praesent auctor odio vel sodales lobortis.
+	    </p>
+	
+	<p><h3><a href="eagle.html">EAGLE(click here for more)</a></h3>
+			Three... dolor sit amet, consectetur adipiscing elit. Nam in posuere dolor. Nulla rhoncus eget libero vel vestibulum. Phasellus iaculis tincidunt nunc, ac iaculis metus vestibulum sed. Nullam justo erat, sodales et neque nec, malesuada placerat lacus. Etiam scelerisque diam vitae massa eleifend, vitae efficitur orci ornare. Quisque tortor est, finibus ac aliquet sit amet, maximus sed nibh. Praesent auctor odio vel sodales lobortis.
+	 </p>
+
+	</div>
+</div>
+
+<hr>
+<div class="nav">
+<div class="footer">
+<small>
+	<p>
+		This was brought to you early before this site self destruct. In 1, 2, 3....
+	</p>
+	</small>
+</div>
+</div>
+
+
+</body>
+</html>
