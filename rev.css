@@ -3,11 +3,26 @@ body {
     text-align: center;
 }
 #page-wrap {
-    text-align: left;
+    
     width: 800px;
     margin: 0 auto;
 }
- 
+
+.main1 {
+    height: 400px;
+    float: left;
+    width: 300px;
+}
+ .main2 {
+   height: 400px;
+    float: left;
+    width: 600px; 
+ }
+ .main3 {
+    height: 400px;
+    float: left;
+    width: 300px;
+ }
  /*.scopes nav ul li { 
  	display: inline-block;
  	font-family: sans-serif;
@@ -84,6 +99,6 @@ li a:hover:not(.active) {
  		overflow: auto;
  	}
  	.footer {
- 		
- 		text-align: center;
+ 		clear: both;
+        height: 50px;
  	}
